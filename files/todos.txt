@@ -1,5 +1,2 @@
 hi
-hello
-byyy
-see you
-complete python bootcamp
+throwgreet
